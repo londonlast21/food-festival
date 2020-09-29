@@ -1,0 +1,26 @@
+{
+  "name": "project-23",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "webpack --watch",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/londonlast21/food-festival.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/londonlast21/food-festival/issues"
+  },
+  "homepage": "https://github.com/londonlast21/food-festival#readme",
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  },
+  "dependencies": {},
+  "keywords": [],
+  "description": ""
+}
